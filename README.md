@@ -1,2 +1,2 @@
-# dio-trilha-java-basico
-Repositório para exemplos do curso de Java básico pela DIO. 
+# beginner-java-projects
+repository for projects with basic Java concepts and fundamentals
